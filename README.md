@@ -1,2 +1,1 @@
-# MG5DSEPHY302--Physics-of-Atmosphere
 MG5DSEPHY302 – Physics of Atmosphere introduces the structure, composition, and physical processes of Earth's atmosphere. It covers atmospheric thermodynamics, stability, clouds, precipitation, radiation, weather systems, and climate, with practical activities to understand atmospheric observations and environmental applications.
